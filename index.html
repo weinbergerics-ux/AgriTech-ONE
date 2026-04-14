@@ -1266,46 +1266,4 @@ if(!sessionStorage.getItem('subShown')){
 </script>
 </body>
 </html>
-</script>
- /* QR */
-.qr-block{display:flex;flex-wrap:wrap;gap:1.4rem;align-items:center;background:var(--teal-l);border:1px solid var(--teal-m);border-radius:var(--r);padding:1.4rem 1.9rem;margin-top:1.4rem}
-.qr-text h4{font-family:var(--serif);font-size:.97rem;font-weight:700;color:var(--navy);margin-bottom:.3rem}
-.qr-text p{font-size:.87rem;color:var(--slate);line-height:1.72;max-width:390px}
-.qr-url{font-family:var(--mono);font-size:.68rem;color:var(--teal);margin-top:.3rem;display:block}
-/* VOL */
-.vol-box{background:var(--navy);border-radius:var(--r);padding:1.4rem 1.9rem;margin-top:.9rem}
-.vol-box h3{font-family:var(--serif);font-size:.97rem;color:#4dffc3;margin-bottom:.4rem}
-.vol-box p{font-size:.88rem;color:rgba(255,255,255,.73);line-height:1.8}
- 
-<!-- qrcode.js — generates a real scannable QR code from the conference page URL -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
-<script>
-(function() {
-  var CONF_URL = 'https://www.agritech-one.scientiae-naturalis.org';
-  var container = document.getElementById('qr-container');
-  if (!container) return;
-  var qr = new QRCode(container, {
-    text: CONF_URL,
-    width: 120,
-    height: 120,
-    colorDark: '#002147',
-    colorLight: '#ffffff',
-    correctLevel: QRCode.CorrectLevel.H
-  });
-  setTimeout(function() {
-    var canvas = container.querySelector('canvas');
-    if (!canvas) return;
-    var pngLink = document.getElementById('qr-download-png');
-    if (pngLink) pngLink.href = canvas.toDataURL('image/png');
-    var svgLink = document.getElementById('qr-download-svg');
-    if (svgLink) {
-      var dataURL = canvas.toDataURL('image/png');
-      var svgContent = '<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="120" height="120" viewBox="0 0 120 120"><title>Scientiae-Naturalis Conference 2026 QR Code</title><desc>Scan to open: ' + CONF_URL + '</desc><image width="120" height="120" xlink:href="' + dataURL + '"/></svg>';
-      var blob = new Blob([svgContent], {type: 'image/svg+xml'});
-      svgLink.href = URL.createObjectURL(blob);
-    }
-  }, 400);
-})();
-</script>
-</body>
-</html>
+
