@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- ═══════════════════════════════════════════════════
+       AgriTech-ONE Scientiae-Naturalis Conference 2026
+       Sitemap — generated 2026-04-30
+       Submit to: https://search.google.com/search-console
+  ════════════════════════════════════════════════════ -->
+
+  <!-- ── HOMEPAGE ── -->
+  <url>
+    <loc>https://www.agritech-one.scientiae-naturalis.org/</loc>
+    <lastmod>2026-04-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.agritech-one.scientiae-naturalis.org/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.agritech-one.scientiae-naturalis.org/fr/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.agritech-one.scientiae-naturalis.org/es/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.agritech-one.scientiae-naturalis.org/"/>
+    <image:image>
+      <image:loc>https://www.agritech-one.scientiae-naturalis.org/og-image.jpg</image:loc>
+      <image:title>AgriTech-ONE Scientific Conference 2026 — Agrifood, Biotech &amp; AI</image:title>
+      <image:caption>Satellite Event of the European Climate Pact. 100% Remote &amp; Asynchronous. Submit abstracts by 25 May 2026.</image:caption>
+    </image:image>
+  </url>
+
+  <!-- ── CONFERENCE PROGRAMME / AGENDA ── -->
+  <url>
+    <loc>https://www.agritech-one.scientiae-naturalis.org/#agenda</loc>
+    <lastmod>2026-04-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- ── ABSTRACT SUBMISSION ── -->
+  <url>
+    <loc>https://www.agritech-one.scientiae-naturalis.org/#abstract</loc>
+    <lastmod>2026-04-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+  </url>
+
+  <!-- ── SCIENTIFIC & ORGANISING COMMITTEES ── -->
+  <url>
+    <loc>https://www.agritech-one.scientiae-naturalis.org/#committees</loc>
+    <lastmod>2026-04-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- ── ORGANIZERS & PARTNERS ── -->
+  <url>
+    <loc>https://www.agritech-one.scientiae-naturalis.org/#organizers</loc>
+    <lastmod>2026-04-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- ── DOWNLOADS ── -->
+  <url>
+    <loc>https://www.agritech-one.scientiae-naturalis.org/#downloads</loc>
+    <lastmod>2026-04-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- ── SPONSORS & PARTNERSHIPS ── -->
+  <url>
+    <loc>https://www.agritech-one.scientiae-naturalis.org/#sponsors</loc>
+    <lastmod>2026-04-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- ── FAQ ── -->
+  <url>
+    <loc>https://www.agritech-one.scientiae-naturalis.org/#faq</loc>
+    <lastmod>2026-04-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+
+  <!-- ── CONTACT ── -->
+  <url>
+    <loc>https://www.agritech-one.scientiae-naturalis.org/#contact</loc>
+    <lastmod>2026-04-30</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- ── DOWNLOADABLE DOCUMENTS (canonical raw GitHub URLs) ── -->
+  <url>
+    <loc>https://raw.githubusercontent.com/weinbergerics-ux/AgriTech-ONE/main/Conference%20Submission%20Guidelines.pdf</loc>
+    <lastmod>2026-04-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://raw.githubusercontent.com/weinbergerics-ux/AgriTech-ONE/main/Conference%20Program%20.pdf</loc>
+    <lastmod>2026-04-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://raw.githubusercontent.com/weinbergerics-ux/AgriTech-ONE/main/Climate-Pact-Template-Poster.pptx</loc>
+    <lastmod>2026-04-30</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://raw.githubusercontent.com/weinbergerics-ux/AgriTech-ONE/main/Climate-Pact-PPT-Template-Corporate-Light_.pptx</loc>
+    <lastmod>2026-04-30</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://raw.githubusercontent.com/weinbergerics-ux/AgriTech-ONE/main/Climate-Pact-PPT-Template-Third%20parties-Light_.pptx</loc>
+    <lastmod>2026-04-30</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+</urlset>
