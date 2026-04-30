@@ -1,0 +1,30 @@
+# ═══════════════════════════════════════════════════════
+# robots.txt — AgriTech-ONE Scientiae-Naturalis Conference
+# https://www.agritech-one.scientiae-naturalis.org/
+# ═══════════════════════════════════════════════════════
+
+# Allow all well-behaved crawlers
+User-agent: *
+Allow: /
+
+# Disallow the payment portal (no indexing value, just a hidden div)
+Disallow: /#payment
+
+# ── Sitemap location ──
+Sitemap: https://www.agritech-one.scientiae-naturalis.org/sitemap.xml
+
+# ── AI / LLM crawlers ──
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
