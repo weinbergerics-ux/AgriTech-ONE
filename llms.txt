@@ -1,0 +1,63 @@
+# AgriTech-ONE Scientiae-Naturalis Conference 2026
+
+> International Scientific Conference on Agrifood, Biotech & AI
+> Satellite Event of the European Climate Pact
+> 100% Remote & Asynchronous · July–October 2026
+
+## About
+
+AgriTech-ONE is a diamond open access international scientific conference focused on Agrifood, Biotechnology and Artificial Intelligence. It is a Satellite Event of the European Climate Pact and addresses war-driven and climate-driven food crises through evidence-based scientific dialogue. The conference is fully remote and asynchronous, designed to include researchers from conflict-affected regions and the Global South.
+
+## Key Dates
+
+- Abstract Submission Deadline: 25 May 2026
+- Notification of Acceptance: 15 June 2026
+- Conference Launch: 10 July 2026
+- Post-Conference Period Closes: 10 October 2026
+
+## Submission & Participation
+
+- Article Processing Charge (APC): €100 / USD 100
+- 12 full scholarships available for participants from Low-Income Countries and the Global South
+- Submission email: scientiae-naturalis-registration@yahoo.com
+- Accepted formats: Digital Posters (A0 PPTX), Video Presentations (MP4, 10–15 min), Rapid Innovation Reports (PDF), 5-Minute Pitches
+- Languages accepted: English, French, Spanish
+- Every accepted submission receives a unique DOI
+- Proceedings published with ISBN and ISSN, indexed on Google Scholar
+
+## Thematic Areas
+
+1. Climate Change Adaptation in Crop & Forestry Sectors
+2. Resource-Use Efficiency in Crops, Aquaculture & Livestock
+3. Social and Economic Impacts for Smallholders
+4. Climate Change Adaptation in Livestock and Fishery Sectors
+5. Post-Production Value Addition and Food Safety
+6. Public Policies, Strategies and Regulations
+7. Tech-to-Market / AI-Driven Sustainability
+8. Sustainable Agriculture & Agroecology
+9. Digitalisation, Precision Agriculture & EU Policy
+
+## Downloads
+
+- [Submission Guidelines (PDF)](https://raw.githubusercontent.com/weinbergerics-ux/AgriTech-ONE/main/Conference%20Submission%20Guidelines.pdf)
+- [Conference Program (PDF)](https://raw.githubusercontent.com/weinbergerics-ux/AgriTech-ONE/main/Conference%20Program%20.pdf)
+- [Poster Template (PPTX)](https://raw.githubusercontent.com/weinbergerics-ux/AgriTech-ONE/main/Climate-Pact-Template-Poster.pptx)
+- [PPT Template Corporate Light (PPTX)](https://raw.githubusercontent.com/weinbergerics-ux/AgriTech-ONE/main/Climate-Pact-PPT-Template-Corporate-Light_.pptx)
+- [PPT Template Third Parties (PPTX)](https://raw.githubusercontent.com/weinbergerics-ux/AgriTech-ONE/main/Climate-Pact-PPT-Template-Third%20parties-Light_.pptx)
+
+## Contact
+
+- Registration & Participation: scientiae-naturalis-registration@yahoo.com
+- Journal & Publications: scientiae-naturalis-journal@yahoo.com
+- Marketing & Partnerships: scientiae-naturalis-marketing@yahoo.com
+
+## Certifications & Standards
+
+ISO 9001, ISO 14001, ISO 45001, IQNET · ORCID Compliant · EU Metadata Standards · Google Scholar Indexed · Blockchain-verified Certificates of Participation
+
+## Organisational Notes
+
+- Organised by: Scientiae Naturalis partner consortium
+- Volunteer reviewer team: 120 researchers and practitioners globally
+- Peer review: double-blind, 3 reviewers per submission
+- Partner institutions include: Wageningen University & Research, CGIAR, University of Ghana, Ethiopian Institute of Agricultural Research, Universidad Nacional Agraria La Molina, ICAR, Université de Montpellier, IRRI, FAO
