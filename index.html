@@ -57,8 +57,13 @@ Accepted submissions are assigned a Digital Object Identifier (DOI) to ensure th
       "endDate": "2026-10-10",
       "eventStatus": "https://schema.org/EventScheduled",
       "eventAttendanceMode": "https://schema.org/OnlineEventAttendanceMode",
-      "location": {
-        "@type": "VirtualLocation", "Berlin", 
+     "location": {
+  "@type": "VirtualLocation",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Berlin",
+    "addressCountry": "DE"
+  }
         "url": "https://www.agritech-one.scientiae-naturalis.org/",
         "name": "Online — 100% Remote & Asynchronous"
       },
